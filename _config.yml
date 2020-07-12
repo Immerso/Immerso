@@ -21,7 +21,8 @@
 title: Immerso
 email: info@theimmerso.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This is the immerso site.
+  This is the Immerso page. (We will be updating this site constantly)
+  Some awesome experiences are being created for you!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.theimmerso.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Immersoofficial
