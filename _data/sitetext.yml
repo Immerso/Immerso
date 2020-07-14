@@ -1,6 +1,6 @@
 header:
     title: Welcome to Immerso!
-    text: Where do you want to be?
+    text: You decide where to be
     button: Get immersed!
     buttonlink: "#services" # "#{section}" or "URL/page link"
 
@@ -10,13 +10,13 @@ services:
     section: services
     list:
       - title: "Virtual Tours"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        desc: "Visit places from your home."
         icon: fas fa-directions
       - title: "Live Experiences"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        desc: "Learn and enjoy with and from others."
         icon: fas fa-user-alt       
       - title: "Immersive Content" #"[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
+        desc: "Forget everything else and let the experience consume you."
         icon: fas fa-vr-cardboard
 
 portfolio:
@@ -27,12 +27,12 @@ portfolio:
 
 timeline:
     title: "About" 
-    text: "Lorem ipsum timeline"
+    text: "Immerso timeline"
     section: timeline
     events:
       - title: "Our Humble Beginnings"
         year: "2020"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+        desc: "The Immerso idea born at the #HACKCOVID19CR, when we were trying to find a way to help the tourism industry."
         image: assets/img/timeline/1.jpg
         alt: 
         align: left
@@ -47,29 +47,16 @@ clients:
     section: clients
     max-height: 100px
     horizontal-scrolling: "" #"yes/no"
-    list:
-      - title: "envato"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/envato.jpg
-      - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/designmodo.jpg
-      - title: "themeforest"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/themeforest.jpg
-      - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
     
 team:
     title: "OUR AMAZING TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    text: "We help people experience the world, anytime, anywhere."
+    subtext: To achieve that, we build innovative tools for immersive content creation for anyone to use. We partner with communities and businesses we believe in, to open their experiences to the world, experiences that will make people learn, enjoy and be inspired. And we go the extra mile to give the world experiences never seen before. All this can be done thanks to our diverse and creative culture, where growth minded people, invested in having an impact in the world, collaborate together.
     section: team
     people:
       - name: "Luis Carlos Marin"
         role: "Lead Designer"
-        image: assets/img/team/1.jpg
+        image: assets/img/team/2.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -79,7 +66,7 @@ team:
             icon: fab fa-linkedin-in
       - name: "Sara Campos"
         role: "Lead Marketer"
-        image: assets/img/team/2.jpg
+        image: assets/img/team/Sara.jpeg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -89,7 +76,7 @@ team:
             icon: fab fa-linkedin-in
       - name: "Briam Mora"
         role: "Lead Developer"
-        image: assets/img/team/3.jpg
+        image: assets/img/team/Briam.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -100,7 +87,7 @@ team:
           
 contact:
     title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+    text: "Write us a message or call at (+506)85234924"
     section: contact
     
 footer:

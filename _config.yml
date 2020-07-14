@@ -20,8 +20,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 title      : Immerso
 email      : info@theimmerso.com #this is also the email contact forms will go to
 description: 
-  This is the Immerso page. (We will be updating this site constantly)
-  Some awesome experiences are being created for you!
+  Esta es la página de Immerso.
+  Estamos creando experiencias para ti!
 author     : Immerso
 # logo:     #optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg
