@@ -54,16 +54,6 @@ team:
     subtext: To achieve that, we build innovative tools for immersive content creation for anyone to use. We partner with communities and businesses we believe in, to open their experiences to the world, experiences that will make people learn, enjoy and be inspired. And we go the extra mile to give the world experiences never seen before. All this can be done thanks to our diverse and creative culture, where growth minded people, invested in having an impact in the world, collaborate together.
     section: team
     people:
-      - name: "Luis Carlos Marin"
-        role: "Lead Designer"
-        image: assets/img/team/2.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
       - name: "Sara Campos"
         role: "Lead Marketer"
         image: assets/img/team/Sara.jpeg
@@ -84,10 +74,20 @@ team:
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
+      - name: "Luis Carlos Marin"
+      role: "Lead Designer"
+      image: assets/img/team/2.jpg
+      social:
+        - url: https://twitter.com
+          icon: fab fa-twitter
+        - url: https://facebook.com
+          icon: fab fa-facebook-f
+        - url: https://linkedin.com
+          icon: fab fa-linkedin-in
           
 contact:
     title: "Contact Us"
-    text: "Write us a message or call at (+506)85234924"
+    text: "Write to us or call at (+506)85234924"
     section: contact
     
 footer:
