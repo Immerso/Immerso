@@ -54,9 +54,9 @@ team:
     subtext: To achieve that, we build innovative tools for immersive content creation for anyone to use. We partner with communities and businesses we believe in, to open their experiences to the world, experiences that will make people learn, enjoy and be inspired. And we go the extra mile to give the world experiences never seen before. All this can be done thanks to our diverse and creative culture, where growth minded people, invested in having an impact in the world, collaborate together.
     section: team
     people:
-      - name: "Sara Campos"
-        role: "Lead Marketer"
-        image: assets/img/team/Sara.jpeg
+      - name: "Briam Mora"
+        role: "Lead Developer"
+        image: assets/img/team/Briam.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -64,9 +64,9 @@ team:
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Briam Mora"
-        role: "Lead Developer"
-        image: assets/img/team/Briam.jpg
+      - name: "Sara Campos"
+        role: "Lead Marketer"
+        image: assets/img/team/Sara.jpeg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
