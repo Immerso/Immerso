@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Hello, World! - A-Frame</title>
+    <meta name="description" content="Hello, World! - A-Frame">
+    <script src="https://aframe.io/releases/0.5.0/aframe.min.js"></script>
+  </head>
+  <body>
+    <a-scene>
+      <a-assets>
+        <audio crossorigin="anonymous" id="audio" src="assets/wind.wav"></audio>
+      </a-assets>
+      <a-sound src="#audio" allow="autoplay" autoplay="true" loop="true"></a-sound>
+      <a-sky id="skybox" src="assets/night.jpg"> </a-sky>
+    </a-scene>
+  </body>
+</html>
