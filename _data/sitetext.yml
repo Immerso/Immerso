@@ -1,8 +1,8 @@
 header:
-    title: Welcome to Immerso!
-    text: You decide where to be
-    button: Get immersed!
-    buttonlink: "#services" # "#{section}" or "URL/page link"
+    title: Welcome to Immerso,
+    text: let's explore the world!
+    button: Explore
+    buttonlink: "#portfolio" # "#{section}" or "URL/page link"
 
 services:
     title: "Products"

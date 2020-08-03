@@ -23,9 +23,9 @@ description:
   Esta es la página de Immerso.
   Estamos creando experiencias para ti!
 author     : Immerso
-# logo:     #optional, defaults to site title
-  # path: assets\img\clients\creative-market.jpg
-  # height: 60 #height in px, defaults to 52px
+logo:
+  path: assets\img\immerso-logo.png
+  height: 42 #height in px, defaults to 52px
 
 analytics:
   google: #Google Analytics tracking code here

@@ -1,18 +1,17 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/02-full.jpg
+title: Jardín Botánico La Catalina
+subtitle: Un lugar para aprender en familia.
+image: ../assets/img/experiences/lacatalina/lacatalina.jpg
 alt: Keep Exploring
 
 caption:
-  title: Explore
-  subtitle: Mountain Immerso
-  thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/02-thumbnail.jpg
+  title: Jardín Botánico La Catalina
+  subtitle: Un lugar para aprender en familia.
+  thumbnail: ../assets/img/experiences/lacatalina/lacatalina.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+Un lugar para aprender en familia. 450 especies de orquideas Senderos bosque aves ubicados en Carrizal de Alajuela.
   
 {:.list-inline}
-- Date: January 2017
-- Client: Explore
-- Category: Graphic Design
+- Guide: Randall Obsney
+- Category: Ecotourism
 
