@@ -11,14 +11,14 @@
       AFRAME.registerComponent('starthandler', {
         init:function() {
           let audio = document.querySelector("#audio");
-          let welcomevideo = document.querySelector("#welcomevideo");
+          // let welcomevideo = document.querySelector("#welcomevideo");
           let skybox = document.querySelector("#skybox");
 
           this.el.addEventListener('click', () => {
                     audio.play();
                     // welcomevideo.pause();
-                    welcomevideo.components.material.material.map.image.pause();
-                    welcomevideo.remove();
+                    // welcomevideo.components.material.material.map.image.pause();
+                    // welcomevideo.remove();
                     skybox.setAttribute("scale","-1 1 1");
 
           });
@@ -74,7 +74,7 @@
         <img id="point1" src="assets/bg360.png"></img>
         <img id="point2" src="assets/lacatalina.jpg"></img>
         <img id="point3" src="assets/rancho.jpg"></img>
-        <video id="welcome" src="assets/welcome.mp4" autoplay loop></video>
+        <!-- <video id="welcome" src="assets/welcome.mp4" autoplay loop></video> -->
       </a-assets>
 
       <a-entity id="spots" hotspots>
@@ -99,7 +99,7 @@
       </a-entity>
 
       <a-sky id="skybox" src="#point1" scale="0 0 0"></a-sky>
-      <a-videosphere id="welcomevideo" src="#welcome" rotation="0 90 0"></a-videosphere>
+      <!-- <a-videosphere id="welcomevideo" src="#welcome" rotation="0 90 0"></a-videosphere> -->
 
     </a-scene>
   </body>
