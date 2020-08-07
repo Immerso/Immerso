@@ -1,25 +1,34 @@
 {
-  "name": "aframe-hello-world-boilerplate",
-  "description": "Boilerplate with A-Frame's 'Hello, World!' of WebVR.",
-  "version": "0.3.0",
-  "license": "MIT",
+  "name": "A-Frame-Preact",
+  "description": "A boilerplate project for getting started with WebVR using A-Frame and Preact",
+  "private": true,
+  "author": "Prayash Thapa",
+  "homepage": "http://effulgence.io/",
+  "version": "1.0.0",
+  "repository": "https://github.com/prayasht/aframe-preact-starter/",
   "scripts": {
-    "start": "budo --live --verbose --port 3000 --open",
-    "deploy": "ghpages",
-    "ghpages": "ghpages"
+    "start": "brunch watch --server",
+    "build": "brunch build --production",
+    "deploy": "ghpages -d public"
+  },
+  "dependencies": {
+    "aframe": "^0.6.0",
+    "aframe-animation-component": "^3.2.5",
+    "aframe-look-at-component": "0.5.1",
+    "aframe-bmfont-text-component": "^0.1.4",
+    "aframe-event-set-component": "^3.0.3",
+    "aframe-particle-system-component": "^1.0.10",
+    "aframe-react": "^4.3.0",
+    "preact": "^8.1.0"
   },
   "devDependencies": {
-    "budo": "^11.6.4",
-    "ghpages": "0.0.10"
-  },
-  "keywords": [
-    "aframe",
-    "aframe-example",
-    "aframe-boilerplate",
-    "aframe-scene",
-    "webvr",
-    "vr"
-  ],
-  "dependencies": {
+    "auto-reload-brunch": "^2",
+    "babel-brunch": "~6.0",
+    "babel-plugin-transform-react-jsx": "^6.24.1",
+    "babel-preset-latest": "^6",
+    "brunch": "^2",
+    "clean-css-brunch": "^2",
+    "ghpages": "0.0.3",
+    "uglify-js-brunch": "^2"
   }
 }
