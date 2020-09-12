@@ -4,5 +4,5 @@ white: "#E8E8E8"
 black: "#202945"
 
 #Image Customization
-header-image: "../img/bg.jpg"
+header-image: "../img/bg.png"
 contact-image: "../img/map-image.png"
