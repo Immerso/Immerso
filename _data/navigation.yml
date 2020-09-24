@@ -1,13 +1,13 @@
 nav:
+  - title: "App"
+    url: https://theimmerso.com
+
+  - title: "Blog"
+    url: https://site.theimmerso.com/blog.html
+
   - title: "Products"
     section: services
-
-  - title: "Experiences"
-    section: portfolio
     
-  - title: "About"
-    section: timeline
-
   - title: "Team"
     section: team
 

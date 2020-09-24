@@ -19,12 +19,6 @@ services:
         desc: "Forget everything else and let the experience consume you."
         icon: fas fa-vr-cardboard
 
-portfolio:
-    title: "Experiences"
-    text: ""
-    section: portfolio
-    
-
 timeline:
     title: "About" 
     text: "Immerso timeline"

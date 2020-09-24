@@ -14,7 +14,7 @@
 #theme: jekyll-agency
 remote_theme: raviriley/agency-jekyll-theme
 
-url    : "https://theimmerso.com" # the base hostname & protocol for your site, e.g. http://example.com
+url    : "https://site.theimmerso.com" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 
 title      : Immerso
@@ -24,7 +24,7 @@ description:
   Estamos creando experiencias para ti!
 author     : Immerso
 logo:
-  path: assets\img\immerso-logo.png
+  path: "/assets/img/immerso-logo.png"
   height: 42 #height in px, defaults to 52px
 
 analytics:
