@@ -1,5 +1,6 @@
 .post {
     padding-top: 10rem;
     padding-left: 5rem;
-    height: 75vh;
+    padding-right: 5rem;
+    min-height: 75vh;
 }
